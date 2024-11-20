@@ -1,0 +1,49 @@
+.container{
+    /* height: 700px; */
+    width: 500px;
+    border: 2px solid;
+    margin: 10;
+    border-radius: 50px;
+}
+
+.section1{
+    height: 50px;
+    width: 400px;
+    border: 2px ;
+    border-style: solid;
+    margin: 45px;
+}
+
+.section2{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    margin: auto;
+    margin-bottom: 40px;
+    border-radius: 50%;
+}
+
+.section3{
+    height: 50px;
+    width: 200px;
+    border: 2px ;
+    border-style: solid;
+    margin: auto;
+}
+
+.section4{
+    height: 50px;
+    width: 400px;
+    border: 2px ;
+    border-style: solid;
+    margin: 10px;
+    margin: 45px;
+}
+
+.section5{
+    height: 30px;
+    width: 400px;
+    border: 2px ;
+    border-style: solid;
+    margin: 45px;
+}
